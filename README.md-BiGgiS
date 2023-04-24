@@ -1,0 +1,3 @@
+# BiGgis
+#! /bin/python3
+print (sum(range(BiGgiS)))
